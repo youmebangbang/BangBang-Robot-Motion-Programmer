@@ -1,0 +1,41 @@
+
+.button{
+	-fx-font-size: 20;
+	-fx-text-fill: rgb(0,0,0);
+	-fx-background-color: #DFE7F1;
+	
+}
+
+.table-view .table-cell{
+    -fx-font-size: 20;
+}
+
+.check-box > .box {
+    -fx-padding: 8px;
+}
+
+.check-box > .box > .mark {
+    -fx-padding: 8px;
+}
+
+.grid{
+	
+	-fx-background-color: linear-gradient(to bottom, navy, blue, black);
+	
+}
+
+.headerLabel{
+	-fx-font-size:25;
+	-fx-text-fill: rgb(255,255,255);
+	
+}
+.checkBoxLabel{
+	-fx-font-size:18;
+	-fx-text-fill: rgb(255,255,255);
+	
+}
+
+.sliders{
+	-fx-min-width: 240;
+	
+}
